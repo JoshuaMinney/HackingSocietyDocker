@@ -1,6 +1,6 @@
-This is the linux fundamentals docker for the Hacking society 15/10/2025 session
+This is the linux fundamentals docker for the Hacking society 15/10/2025 session.
 To run this, please use your linux virtual machine. This is designed for ubuntu, other operating systems may work but not guaranteed.
-This is to be used in conjunction with the https://tryhackme.com/jr/HackingSocietyLinuxF room I created
+This is to be used in conjunction with the https://tryhackme.com/jr/HackingSocietyLinuxF room I created.
 
 
 To download this:
