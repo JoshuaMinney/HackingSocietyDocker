@@ -9,8 +9,8 @@ To download this:
 3) unzip zippedDockers.zip
    
 To run:
-1) docker build -t dockerimage:1.0 .
-2) docekr run -it --entrypoint bash dockerimage:1.0
+1) sudo docker build -t dockerimage:1.0 .
+2) sudo docker run -it --entrypoint bash dockerimage:1.0
 
 To exit:
 1) write exit in terminal
