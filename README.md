@@ -1,0 +1,14 @@
+This is the linux fundamentals docker for the Hacking society 15/10/2025 session
+To run this, please use your linux virtual machine. This is designed for ubuntu, other operating systems may work but not guaranteed.
+
+To download this:
+1) git clone https://github.com/JoshuaMinney/HackingSocietyDocker.git
+2) cd HackingSocietyDocker/
+3) unzip zippedDockers.zip
+   
+To run:
+1) docker build -t dockerimage:1.0 .
+2) docekr run -it --entrypoint bash dockerimage:1.0
+
+To exit:
+1) write exit in terminal
