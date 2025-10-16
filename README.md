@@ -1,5 +1,5 @@
 This is the linux fundamentals docker for the Hacking society 15/10/2025 session.
-To run this, please use your linux virtual machine. This is designed for ubuntu, other operating systems may work but not guaranteed.
+To run this, please use a linux virtual machine for this. This is designed for ubuntu or kali vms running vmware, other operating systems may work but not guaranteed.
 This is to be used in conjunction with the https://tryhackme.com/jr/HackingSocietyLinuxF room I created.
 
 
@@ -9,7 +9,7 @@ To download this:
 3) unzip zippedDockers.zip
    
 To run:
-1) sudo apt install docker.io
+1) sudo apt install docker.io (if this doesn't work skip step 1)
 2) sudo docker build -t dockerimage:1.0 .
 3) sudo docker run -it --entrypoint bash dockerimage:1.0
 
